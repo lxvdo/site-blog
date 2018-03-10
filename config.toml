@@ -1,4 +1,15 @@
-baseURL = "/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://lxvdo.netlify.com"
+languageCode = "en"
+title = "LXVDO"
 theme = "hemingway2"
+#copyright = "&copy; <a href=\"https://github.com/beli3ver\">Malte Kiefer</a> 2016"
+#disqusShortname = "shortname"
+googleAnalytics = ""
+description = "My personal site"
+#keywords = ["keyword1", "keyword2"]
+
+
+#baseURL = "/"
+#languageCode = "en-us"
+#title = "My New Hugo Site"
+#theme = "hemingway2"
