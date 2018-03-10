@@ -1,4 +1,4 @@
-baseURL = "https://lxvdo.netlify.com"
+baseURL = "/
 languageCode = "en-gb"
 title = "My New Hugo Site"
 theme = "hemingway2"
