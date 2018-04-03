@@ -1,11 +1,11 @@
-baseurl = "https://lxvdo.netlify.com"
+baseurl = "https://www.lxvdo.com"
 languageCode = "en"
 title = "LXVDO"
 theme = "hemingway2"
 #copyright = "&copy; <a href=\"https://github.com/beli3ver\">Malte Kiefer</a> 2016"
-#disqusShortname = "shortname"
-googleAnalytics = ""
-description = "My personal site"
+disqusShortname = "lxvdo"
+googleAnalytics = "UA-116832031-1"
+description = "My personal blog"
 #keywords = ["keyword1", "keyword2"]
 
 
