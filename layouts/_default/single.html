@@ -11,8 +11,9 @@
       <div class="content">
         {{ .Content }}
       </div>
-    </div>
+	</div>
   </section>
+  {{ partial "mailerlite" . }}
   <!--{{ partial "disqus" . }}-->
   {{ partial "footer" . }}
 </body>
