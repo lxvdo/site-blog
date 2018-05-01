@@ -1,16 +1,60 @@
-baseurl = "https://www.lxvdo.com"
+baseURL = "https://www.lxvdo.com"
 languageCode = "en"
 title = "LXVDO"
-theme = "hemingway2"
+theme = "minimal"
 disqusShortname = "lxvdo"
 googleAnalytics = "UA-116832031-1"
-description = "My personal blog"
-#keywords = ["keyword1", "keyword2"]
+#description = "My personal blog"
 
 [params]
-	custom_css = ["css/custom.css"]
+    author = "Alex van Domburg"
+    description = "Adventures in the Cave of future technology"
+    githubUsername = "lxvdo"
+    accent = "#1eaa0d"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "solarized-dark"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+	css = ["css/custom_style.css"]
 
-#baseURL = "/"
-#languageCode = "en-us"
-#title = "My New Hugo Site"
-#theme = "hemingway2"
+[[menu.main]]
+    url = "/"
+    name = "LXVDO"
+    weight = 1
+
+[[menu.main]]
+    url = "/post/"
+    name = "Posts"
+    weight = 2
+
+[[menu.main]]
+    url = "/project/"
+    name = "Projects"
+    weight = 3
+
+[[menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 4
+
+# Social icons to be shown on the right-hand side of the navigation bar
+# The "name" field should match the name of the icon to be used
+# The list of available icons can be found at http://fontawesome.io/icons/
+
+[[menu.icon]]
+    url = "alex@lxvdo.com"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://medium.com/@lxvdo"
+    name = "medium"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/avdomburg/"
+    name = "linkedin"
+    weight = 3
+
