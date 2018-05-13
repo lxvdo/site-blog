@@ -1,14 +1,19 @@
-@media (max-width: @screen-xs) {
-    body{font-size: 16px;}
+body{font-size: 18px;}
+
+.navbar-brand {
+	font-size: 16px;
 }
 
-@media (max-width: @screen-sm) {
+/*@media screen and (max-width: @screen-sm) {
     body{font-size: 20px;}
 }
-
+*/
 .intro > h2 {
     color: #757575;
     font-size: 3vh;
 }
 
-body{font-size: 20px;}
+@media screen and (max-width: 600px){
+    body{font-size: 14px;}
+	.navbar-brand {font-size: 16px;}
+}

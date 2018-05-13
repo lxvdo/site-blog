@@ -1,6 +1,6 @@
 ---
-title: "Firstpost"
-date: 2018-03-07T19:29:01+01:00
+title: "Hello Internet! continued"
+date: 2018-05-16
 draft: false
 ---
 
@@ -19,4 +19,4 @@ yes it will
 
 <!-- html comment -->
 
-[link](google.com)
+[link](http://google.com)
