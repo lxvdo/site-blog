@@ -2,8 +2,9 @@
 
 <main>
 
-    <!-- {{ partial "list-item" . }}-->
-	<h4><a href="{{ .Scratch.Get "link" }}">{{ .Title }}</a></h4>
+    <!-- {{ partial "list-item" . }}
+	<h4><a href="{{ .Scratch.Get "link" }}">{{ .Title }}</a></h4>-->
+	<h2>{{ .Title }}</h2>
     <br> <div class="text-justify">{{ .Content }}</div>
 	
     <!-- related posts with the same tags -->
