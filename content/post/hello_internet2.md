@@ -6,7 +6,12 @@ draft: true
 
 ---
 
-<h1 id="hi-there-internet">Hi there, internet!</h1>
-<p>This is only a test</p>
-<p><img src="https://media.giphy.com/media/ArrVyXcjSzzxe/giphy.gif" alt="Test"></p>
+# Hi there, internet!
+
+This is only a test
+
+
+
+![Test](https://media.giphy.com/media/ArrVyXcjSzzxe/giphy.gif)
+
 
