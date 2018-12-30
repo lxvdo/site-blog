@@ -1,60 +1,123 @@
+#baseURL = "https://www.lxvdo.com"
+#languageCode = "en"
+#title = "LXVDO"
+#theme = "hermit"#"minimal"
+#disqusShortname = "lxvdo"
+#googleAnalytics = "UA-116832031-1"
+##description = "My personal blog"
+#
+#[params]
+#    author = "Alex van Domburg"
+#    description = "Adventures in the Cave of future technology"
+#    githubUsername = "lxvdo"
+#    accent = "#1eaa0d"
+#    showBorder = true
+#    backgroundColor = "white"
+#    font = "Raleway" # should match the name on Google Fonts!
+#    highlight = true
+#    highlightStyle = "solarized-dark"
+#    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+#	css = ["css/custom_style.css"]
+#
+#[[menu.main]]
+#    url = "/"
+#    name = "LXVDO"
+#    weight = 1
+#
+##[[menu.main]]
+##    url = "/post/"
+##    name = "Posts"
+##    weight = 2
+#
+##[[menu.main]]
+##    url = "/project/"
+##    name = "Projects"
+##    weight = 3
+#
+#[[menu.main]]
+#    url = "/about/"
+#    name = "About"
+#    weight = 3
+#
+## Social icons to be shown on the right-hand side of the navigation bar
+## The "name" field should match the name of the icon to be used
+## The list of available icons can be found at http://fontawesome.io/icons/
+#
+#[[menu.icon]]
+#    url = "mailto:alex@lxvdo.com"
+#    name = "envelope-o"
+#    weight = 1
+#
+#[[menu.icon]]
+#    url = "https://medium.com/@lxvdo"
+#    name = "medium"
+#    weight = 2
+#
+#[[menu.icon]]
+#    url = "https://www.linkedin.com/in/avdomburg/"
+#    name = "linkedin"
+#    weight = 3
+#
 baseURL = "https://www.lxvdo.com"
-languageCode = "en"
+languageCode = "en-us"
+defaultContentLanguage = "en"
 title = "LXVDO"
-theme = "minimal"
-disqusShortname = "lxvdo"
+theme = "hermit"
+# enableGitInfo = true
+#pygmentsCodefences  = true
+#pygmentsUseClasses  = true
+#hasCJKLanguage = true  # If there're Chinese/Japanese/Korean Languages in the content, enable this.
+rssLimit = 10  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 googleAnalytics = "UA-116832031-1"
-#description = "My personal blog"
+disqusShortname = "lxvdo"
+
+[author]
+  name = "Alex van Domburg"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[taxonomies]
+  tag = "tags"
+  category = ""  # Categories are disabled by default.
 
 [params]
-    author = "Alex van Domburg"
-    description = "Adventures in the Cave of future technology"
-    githubUsername = "lxvdo"
-    accent = "#1eaa0d"
-    showBorder = true
-    backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
-    highlight = true
-    highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
-	css = ["css/custom_style.css"]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
 
-[[menu.main]]
-    url = "/"
-    name = "LXVDO"
-    weight = 1
-
-[[menu.main]]
-    url = "/post/"
-    name = "Posts"
-    weight = 2
-
-#[[menu.main]]
-#    url = "/project/"
-#    name = "Projects"
-#    weight = 3
-
-[[menu.main]]
-    url = "/about/"
-    name = "About"
-    weight = 3
-
-# Social icons to be shown on the right-hand side of the navigation bar
-# The "name" field should match the name of the icon to be used
-# The list of available icons can be found at http://fontawesome.io/icons/
-
-[[menu.icon]]
+  # themeColor = "#494f5c"  # Theme color in meta tags.
+  homeSubtitle = "Adventures in the Cave of future technology"
+  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  # gitUrl = "https://github.com/Someone/SomeRepo/commit/" # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  justifyContent = false  # Set "text-align: justify" to .content, requires extended version of Hugo
+  # bgImg = ""  #  Homepage background-image URL
+  # customCSS = ["css/foo.css", "css/bar.css"]  # add custom css
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+  [[params.social]]
+    name = "email"
     url = "mailto:alex@lxvdo.com"
-    name = "envelope-o"
-    weight = 1
 
-[[menu.icon]]
-    url = "https://medium.com/@lxvdo"
+  [[params.social]]
     name = "medium"
-    weight = 2
+    url = "https://medium.com/@lxvdo"
 
-[[menu.icon]]
-    url = "https://www.linkedin.com/in/avdomburg/"
+  [[params.social]]
     name = "linkedin"
-    weight = 3
+    url = "https://www.linkedin.com/in/avdomburg/"
 
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 20
