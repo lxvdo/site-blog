@@ -1,16 +1,11 @@
 ---
 title: "Hi there, internet!"
 date: 2018-07-30
-tags: []
-draft: true
-
+tags: ["Life", "Improvement", "writing"]
+draft: false
 ---
 
-# Hi there, internet!
-
 This is only a test
-
-
 
 ![Test](https://media.giphy.com/media/ArrVyXcjSzzxe/giphy.gif)
 
