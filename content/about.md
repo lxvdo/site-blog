@@ -1,14 +1,25 @@
 +++
-date = "2018-01-01"
+date = "2019-01-01"
 draft = false
 title = "About"
-type = "layout_custom"
-layout = "layout_about"
 +++
 
-Are you also shocked, awed, scared and fascinated by the way technology is shaping our society and world? 
+LXVDO refers to me, Alex van Domburg. As an engineer and thinker, I am fascinated by human's ability to make sense of its environment, invent solutions and improve its way of living.
+However, the more I read and see, the more I realize that we as humans are becoming one of our own [largest existential threats](https://80000hours.org/articles/extinction-risk/).  
+Technological progress has given us the power to transform our lives, but without proper control, the same power can just as easily lead us to our demise. 
+Our power has destabilized the global system, increased inequality on multiple levels and disconnected us from our environment and ourselves. 
+It influences our thinking and some of its mental constructs are deeply rooted in our culture.  
 
-My name is Alex. I'm a mechanical engineer working in automation and I've got a passion for technology in the broadest sense of the word. 
-On this blog you will see me writing about Automation, Robotics, Artificial Intelligence and Data Science from a philosophical and sociological perspective. 
+I believe tackling these large problems starts with becoming aware. We have to take time to reflect on how our actions impact the world we live in. 
+Being conscious of our own biases and flaws, we can map out a path of change to start rebalancing and reconnecting.    
+  
+On this blog, I explore what it means to be human in this day and age. I use these questions to guide me: 
 
-blabla
++ How do we think and act? 
++ How are modern culture and technologies influencing us?
++ How can we start to rebalance the global system and aim for real sustainability?
+
+<br> 
+LXVDO also is a letteral word that can be read as *'Alex video'*, which translates to *'I see Alex'* from Latin. [Writing](lxvdo.com/posts/why-write) here allows me to share my views and thinking with you, and at the same time explore and reflect on them myself.  
+
+[Ready to start exploring?](lxvdo.com/posts)
