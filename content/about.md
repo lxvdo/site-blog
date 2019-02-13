@@ -20,6 +20,7 @@ On this blog, I explore what it means to be human in this day and age. I use the
 + How can we start to rebalance the global system and aim for real sustainability?
 
 <br> 
-LXVDO also is a letteral word that can be read as *'Alex video'*, which translates to *'I see Alex'* from Latin. [Writing](lxvdo.com/posts/why-write) here allows me to share my views and thinking with you, and at the same time explore and reflect on them myself.  
+LXVDO also is a letteral word that can be read as *'Alex video'*, which translates to *'I see Alex'* from Latin. 
+[Writing here](https://lxvdo.com/posts/why-write) allows me to share my views and thinking with you, and at the same time explore and reflect on them myself.  
 
-[Ready to start exploring?](lxvdo.com/posts)
+[Ready to start exploring?](https://lxvdo.com/posts)
