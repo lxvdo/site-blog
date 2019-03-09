@@ -1,5 +1,8 @@
 ---
-
+title: "meaning is about connection"
+date: 2019-03-20
+tags: []
+draft: true
 
 ---
 
