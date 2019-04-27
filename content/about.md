@@ -5,9 +5,9 @@ title = "About"
 +++
 
 LXVDO refers to me, Alex van Domburg. As an engineer and thinker, I am fascinated by human's ability to make sense of its environment, invent solutions and improve its way of living.
-However, the more I read and see, the more I realize that we as humans are becoming one of our own [largest existential threats](https://80000hours.org/articles/extinction-risk/).  
-Technological progress has given us the power to transform our lives. But without proper control, the same power can just as easily lead us to our demise. 
-Our power has destabilized the global system, increased inequality on multiple levels and disconnected us from our environment and ourselves. 
+At the same time, the more I read and see, the more I realize that we are becoming one of our own [largest existential threats](https://80000hours.org/articles/extinction-risk/).  
+Technological progress has given us the power to transform our lives. But without proper control, that same power can just as easily lead us to our demise. 
+Our power has destabilized the global system, has increased inequality on multiple levels and has been disconnecting us from our environment and ourselves. 
 It influences our thinking and some of its mental constructs are deeply rooted in our culture.  
 
 I believe tackling these large problems starts with becoming aware. We have to take time to reflect on how our actions are impacting the world we live in. 
@@ -23,4 +23,4 @@ On this blog, I explore what it means to be human in this day and age. I use the
 LXVDO also is a letteral word that can be read as *'Alex video'*, which translates to *'I see Alex'* from Latin. 
 [Writing here](https://lxvdo.com/posts/why-write) allows me to share my views and thinking with you, and at the same time explore and reflect on them myself.  
 
-[Ready to start exploring?](https://lxvdo.com/posts)
+[Ready to start exploring with me?](https://lxvdo.com/posts)
