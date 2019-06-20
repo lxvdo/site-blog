@@ -101,6 +101,10 @@ disqusShortname = "lxvdo"
   [[params.social]]
     name = "email"
     url = "mailto:alex@lxvdo.com"
+  
+  [[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/lxvdo/"
 
   [[params.social]]
     name = "medium"
