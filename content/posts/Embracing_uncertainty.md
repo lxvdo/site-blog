@@ -16,6 +16,7 @@ The mind thinks and the mind overthinks. The unknown is scary. As a survival ins
 Today’s society has overcome most of these dangerous situations. Human evolution, however, has yet to catch up, as our primal instincts still linger in our minds and bodies. 
 
 With biology as a given, the challenge is up to you to learn to cope with your instinctive feelings of fear and anxiety. That only happens when you start exposing yourself to the novel, the uncertain and the unknown. It’s an exercise of the mind, to stop listening to your inner monkey and to start doing. 
+
 Begin small and find out that you were stupid for being afraid. Discover that in most cases, failure isn’t the end of the world. Failure can be your best teacher. Experiment without expectation, focus on the process and allow yourself to be wrong. 
 In the end, you’ll see that the only real failure is in not taking any action and in not learning from the experience, regardless of its outcome. 
 
@@ -24,8 +25,9 @@ After every experience you grow a little more confident, stretching your comfort
 ## Discomfort away from home
 Solo travel is one of the easiest ways to put yourself in the unknown and the uncertain. You are left to your own devices. You have to decide and figure it out. You pick the path and set out.
 
-With an abundance of information available nowadays in travel guides, blogs and videos, you could plan your whole trip to the smallest details. Doing that, in my view, takes away from the experience. Of course, it can be useful to view these sources for inspiration and to give you a starting point.  
-But I keep it at that. I don’t have a bucket list. I know I’m not going to miss out if I don’t see Lonely Planet’s top 20 attractions. Popular opinion does not have to equal your own. I’m not eyeing for selfies, I look for experiences and connections along the way.  
+With an abundance of information available nowadays in travel guides, blogs and videos, you could plan your whole trip to the smallest details. Doing that, in my view, takes away from the experience. Of course, it can be useful to view these sources for inspiration and to give you a starting point. 
+
+But I keep it at that. I don’t have a bucket list. I know I’m not going to miss out if I don’t see Lonely Planet’s top 20 attractions. Popular opinion does not have to equal your own. I’m not eyeing for selfies, I look for experiences and connections.  
 
 I don’t have a plan. I’ve found that the most fulfilling experiences in travel and in life cannot be planned for. No travel guide can show you where and to who you will connect the most. 
 
@@ -40,7 +42,7 @@ I set out with the goal to learn and grow by connecting. I wanted to connect mor
 The Netherlands doesn’t have a lot of [untouched nature](https://soundcloud.com/de-correspondent/jan-van-poppel-met-dit-beleid-houden-we-geen-natuur-meer-over) left. It then only makes sense to seek it across the borders. In these months I’ve climbed mountains, hiked through jungles and steppes, dived into the underwater world, and bested blizzards and typhoons.
 Exposing myself to these primal environments reinforced my appreciation for nature, finding intense beauty and inspiration. On the other hand, I’ve also been confronted with the fact that humans have had a disastrous impact on nature. It worries me that we will lose a lot of beauty and diversity if we don’t change our ways. 
 
-I‘ve not lost faith in humanity though. Connecting with people from all over the world and with quite different backgrounds, I feel that most people want similar things in life. And for the most part, it’s the simple things that bring the most fulfilment. We have our cultural differences and beliefs, but our shared goals and shared adversity bring understanding and empathy. They give perspective, prompting you to be grateful, to give and share, and to reconsider your ways.
+I‘ve not lost faith in humanity though. Connecting with people from all over the world and with quite different backgrounds, I feel that most people want similar things in life. And for the most part, it’s the simple things that bring the most fulfilment. We have our cultural differences and beliefs, but our shared goals and shared adversity bring understanding and empathy. They give perspective, prompting you to be grateful, to give, to share and to reconsider.
 
 Finally, I’ve been reconnecting with different parts of my self. I’ve noticed that it’s comfortable to follow the path that society sets out for you, growing up, getting an education, a stable job, a house and a family. But I started wondering: are these decisions that I have consciously taken myself? Are they things that I still want now?
 The more stories you hear of different people’s lives, the more you become aware that there are many ways to design your life. It’s again about daring to choose your own path. 
@@ -56,10 +58,3 @@ Writing is something where these two can come together. Writing consists of rese
 It’s one of the endeavours I’m experimenting with in the coming period and will share with you along the way. 
 
 Thanks for reading, and I’d love to hear what you think so far!
-
-
-
-
-
-
-
