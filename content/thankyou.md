@@ -3,7 +3,7 @@ date = "2020-01-01"
 draft = false
 title = "Thanks for signing up!"
 +++
-{{< figure src="https://media.giphy.com/media/b5LTssxCLpvVe/giphy.gif" class=""gi >}}
+{{< figure src="https://media.giphy.com/media/b5LTssxCLpvVe/giphy.gif" >}}
 
 You'll be getting something new soon, delivered right to your mailbox. 
 
