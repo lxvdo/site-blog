@@ -21,6 +21,6 @@ On this blog, I explore what it means to be human in this day and age. I use the
 
 <br> 
 LXVDO also is a letteral word that can be read as *'Alex video'*, which translates to *'I see Alex'* from Latin. 
-[Writing here](https://lxvdo.com/posts/why-write) allows me to share my views and thinking with you, and at the same time explore and reflect on them myself.  
+Writing here allows me to share my views and thinking with you, and at the same time explore and reflect on them myself.  
 
-[Ready to start exploring with me?](https://lxvdo.com/posts)
+[Ready to start exploring with me?]({{< relref "/posts" >}})
