@@ -1,5 +1,5 @@
 ---
-title: "The important things you could be doing in a crisis"
+title: "The best things you could be doing in a crisis"
 date: 2020-04-12
 tags: ["Life", "Personal development"]
 draft: false
@@ -17,7 +17,7 @@ We don’t know what will happen, how long it will take for things to get back t
 ## What can you do?
 It’s a tough period if your own or your loved ones’ health is affected, or if you’re a healthcare worker. I wish you all the strength. 
 
-For everyone else, focus on the things you can influence. Staying safe comes down to remaining calm, following measures to limit the spread (staying at home, social distancing) and being up to date with your government's policies. It’s a small price to pay for your own and others’ wellbeing. 
+For everyone else, focus on the things you can influence. For one, stay safe. This comes down to remaining calm, following measures to limit the spread (staying at home, social distancing) and being up to date with your government's policies. It’s a small price to pay for your own and others’ wellbeing. 
 
 With a lot of your routine activities being cancelled or forbidden, you probably have some extra time at hand. Even taking all the safety measures, there still is an abundance of things you can do. 
 
