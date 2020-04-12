@@ -15,6 +15,9 @@
 			<div class="content">
 				{{ .Content }}
 			</div>
+
+			{{ partial "emailform.html" . }}
+
 			<hr class="post-end">
 			<footer class="post-info">
 				{{- with .Params.tags }}
@@ -38,8 +41,6 @@
 			{{ .TableOfContents }}
 		</aside>
 		{{- end }}
-
-		{{ partial "emailform.html" . }}
 
 		<div class="post-nav thin">
 			{{- with .NextInSection }}
