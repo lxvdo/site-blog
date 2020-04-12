@@ -22,12 +22,10 @@ For everyone else, focus on the things you can influence. Staying safe comes dow
 With a lot of your routine activities being cancelled or forbidden, you probably have some extra time at hand. Even taking all the safety measures, there still is an abundance of things you can do. 
 
 If you see an opportunity to help people in need around you, by all means, go for it. 
-Other than that, keep doing your work to the best of your abilities, because the world is not ending. Even though there is a lot of focus on the COVID-19 crisis, all of humanity’s other challenges haven’t disappeared and require some of our time and attention as well.  
+Other than that, keep doing your work to the best of your abilities, because the world is not ending. Even though there is a lot of focus on the COVID-19 crisis, all of humanity’s other challenges haven’t disappeared and require some of our time and attention as well. This is not the first crisis we find ourselves in and it certainly isn’t going to be the last either. We should expect more economic downturns, environmental disasters, and the possibility of automation of jobs.
 
-This is not the first crisis we find ourselves in and it certainly isn’t going to be the last either. We should expect more economic downturns, environmental disasters, and the possibility of automation of jobs.
-
-With these uncertain challenges lying ahead in the future, your best bet is to become more resilient. Strengthening your mind and body and acquiring the tools to adapt effectively to changing circumstances is the best preparation in the face of unpredictable adversity. 
-I focus on three interconnected aspects of resilience: mental, physical and financial.
+With uncertain challenges in both the present and the future, your best bet is to become more resilient. Strengthening your mind and body and acquiring the tools to adapt effectively is the best preparation in the face of unpredictable adversity. 
+So commit this new-found time on building up more resilience. I focus on three interconnected aspects of resilience: mental, physical and financial.
 
 ## Building Mental and Emotional Resilience
 In today’s world, we are in constant connection, bombarded by noise, distractions and temptations. It’s hard to focus and find out what’s relevant. We juggle our work, social and private lives. We end up feeling unfulfilled in at least one of them. We face adversity and uncertainty. We don’t know how to respond or act and are getting stressed. 
@@ -68,14 +66,14 @@ Instead, start to diversify and be prepared for when times get rough again.
 
 Achieving this is going to take time. Start by creating a plan that takes you in the right direction. What you can think of: 
 
-1. Getting rid of debt; It’s the one big thing that’s dragging you down. An exception in some cases could be a mortgage or business loan, but do the math and know what’s important to you.   
-2. Find out how much you are spending and how much you actually need. Put some money on quality and things you enjoy, but stay lean in general. 
-3. Start building up a buffer to cover sudden unforeseen costs and at least three to six months of living expenses. 
-4. Invest both time and money in your development of universal skills and knowledge. They complement what you already possess and are the things that are going to keep you relevant in any future scenario. 
-5. Diversify your income by building up additional income streams. You can invest your money in different ways, and you can create value in different ways. Start with your experience and skill set. Get creative. Ask yourself, in which other places could I provide value with my expertise? 
+1. __Get rid of debt__; It’s the one big thing that’s dragging you down. An exception in some cases could be a mortgage or business loan, but do the math and know what’s important to you.   
+2. __Find out how much you are spending and how much you actually need__; Put some money on quality and things you enjoy, but stay lean in general. 
+3. Start __building up a buffer__ to cover sudden unforeseen costs and at least three to six months of living expenses. 
+4. Invest both time and money in your __development of universal skills and knowledge__; They complement what you already possess and are the things that are going to keep you relevant in any future scenario. 
+5. __Diversify your income__ by building up additional income streams; You can invest your money in different ways, and you can create value in different ways. Start with your experience and skill set. Get creative. Ask yourself, in which other places could I provide value with my expertise? 
 
 ## What I’m doing
-During the past years I have been working on my resilience in varying ways. For instance, even though I didn’t consider myself a spiritual person, during my trip I found how I can practically apply mindfulness to find inner peace and clarity. I’ve been moving a lot more every day, got more conscious about my diet and have become a vegetarian. 
+During the past years I have been working on all these aspects of resilience. For instance, even though I didn’t consider myself a spiritual person, during my trip I found how I can practically apply mindfulness to find inner peace and clarity. I’ve been moving a lot more every day, got more conscious about my diet and have become a vegetarian. 
 
 For now, I focus on things that bring me joy. Reconnecting with people I care for, following my curiosity and learning more about sustainability and the mind. I’m balancing out my consumption of content with several creative activities, including writing, programming and learning to play the piano. 
 
